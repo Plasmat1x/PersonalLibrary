@@ -1,3 +1,5 @@
+//UML https://refactoring.guru/images/patterns/diagrams/mediator/structure.png?id=1f2accc7820ecfe9665b
+
 #include <iostream>
 #include <string>
 
